@@ -1,0 +1,7 @@
+MATLAB 26.2.0.3386108 (R2026b)
+Runs: 27
+Max relative equilibrium residual: 3.38801657043e-14
+Max relative volume error: 3.41036752091e-12
+Max relative KKT residual: 0.000199835344739
+All runs converged; bounds, volume, objective histories and cross-case trends passed.
+Dual solver: fzero
